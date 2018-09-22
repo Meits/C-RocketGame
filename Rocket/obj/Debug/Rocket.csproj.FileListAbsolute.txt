@@ -1,0 +1,9 @@
+D:\step\ado.net\dz6\solution\Rocket\Rocket\bin\Debug\Rocket.exe.config
+D:\step\ado.net\dz6\solution\Rocket\Rocket\bin\Debug\Rocket.exe
+D:\step\ado.net\dz6\solution\Rocket\Rocket\bin\Debug\Rocket.pdb
+D:\step\ado.net\dz6\solution\Rocket\Rocket\obj\Debug\Rocket.Form1.resources
+D:\step\ado.net\dz6\solution\Rocket\Rocket\obj\Debug\Rocket.Properties.Resources.resources
+D:\step\ado.net\dz6\solution\Rocket\Rocket\obj\Debug\Rocket.csproj.GenerateResource.Cache
+D:\step\ado.net\dz6\solution\Rocket\Rocket\obj\Debug\Rocket.exe
+D:\step\ado.net\dz6\solution\Rocket\Rocket\obj\Debug\Rocket.pdb
+D:\step\ado.net\dz6\solution\Rocket\Rocket\obj\Debug\Rocket.csprojResolveAssemblyReference.cache
